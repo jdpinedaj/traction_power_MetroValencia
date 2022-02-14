@@ -1,5 +1,5 @@
 ## Predicting the traction power of metropolitan railway lines using different Machine Learning models
-Juan Pineda-Jaramillo<sup>a</sup>  (University of Luxembourg), Pablo Martínez<sup>b</sup>, Ignacio Villalba<sup>b</sup>, Pablo Salvador<sup>b</sup>, Ricardo Insa<sup>b</sup> \
+Juan Pineda-Jaramillo<sup>a</sup>, Pablo Martínez<sup>b</sup>, Ignacio Villalba<sup>b</sup>, Pablo Salvador<sup>b</sup>, Ricardo Insa<sup>b</sup> \
 <sup>a</sup>University of Luxembourg \
 <sup>b</sup>Technical University of Valencia
 
